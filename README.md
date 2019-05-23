@@ -1,2 +1,2 @@
 # hackathon
-Repository to be forked for the Give Voice to Football Hackathon
+In order to particiate to the Hackathon please fork this repo and follow the rules posted at https://givevoicetofootball.github.io/
